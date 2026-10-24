@@ -7,7 +7,7 @@ import VideoMeetComponent from './pages/VideoMeet';
 import HomeComponent from './pages/home';
 import History from './pages/history';
 
-function App() {
+nfunction App() {
   return (
     <div className="App">
 
